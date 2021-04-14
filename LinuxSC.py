@@ -208,7 +208,7 @@ if __name__ == "__main__":
                     print("Creating config.json...")
                     with open(cfgpath,"w") as cfg: cfg.write("{}")
             
-                print("EnhancedDiscord installation complete!\n")
+                print("SmartCord installation complete!\n")
 
             elif option == 'Update SC':
                 if os.path.exists(enhanceddir):
