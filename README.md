@@ -9,7 +9,7 @@ If you wish to use this on MacOS you'll first need to download Python 3 via [Bre
 After installing Brew, enter `brew install python3` in a terminal, then follow the installation guide below.
 # Features
 - Custom index.js location
-- SmartCord updater (this does update ED)
+- SmartCord updater (this does update SmartCord)
 - LinuxSC updater (this does not update SC, it updates the LinuxSC script)
 - Automates all SmartCord installation on Linux, MacOS, and Windows.
 # Requirements
